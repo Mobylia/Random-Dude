@@ -1,0 +1,5 @@
+require "vector2"
+require "plataform"
+require "player"
+require "enemy"
+require "VictoryCube"
